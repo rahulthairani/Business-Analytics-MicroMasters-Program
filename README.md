@@ -1,1 +1,1 @@
-# Business-Analytics-MicroMasters-Program
+# MicroMasters Program in Business Analytics - ColumbiaX
