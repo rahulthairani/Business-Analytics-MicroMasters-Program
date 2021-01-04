@@ -1,12 +1,15 @@
 # MicroMasters Program in Business Analytics - ColumbiaX
 
-Learn the power of analytics to make better decisions.
+**[MicroMasters Program in Business Analytics - ColumbiaX](https://www.edx.org/micromasters/columbiax-business-analytics "Program Description")**
 
 ### What you will learn
 
   - Apply methods, tools, and software for acquiring, managing/storing, and accessing structured and unstructured data
+  
   - Prepare data for statistical analysis, perform basic exploratory and descriptive analysis, and apply statistical techniques to analyze data
+  
   - Apply descriptive, predictive and prescriptive analytics to business modeling and decision-making
+  
   - Demonstrate orally, and in writing, the ability to explain complex analytical models and results
 
 ### Program Overview
