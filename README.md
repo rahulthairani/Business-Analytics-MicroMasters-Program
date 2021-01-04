@@ -35,16 +35,27 @@ These are only a small sample of the operational and pricing challenges all busi
 ### Syllabus
 
 Week 1 – Introduction
+
 Week 2 – Static price optimization
+
 Week 3 – Dynamic price optimization
+
 Week 4 – Price differentiation
+
 Week 5 – Quantity based revenue management
+
 Week 6 – Network revenue management & overbooking
+
 Week 7 – Customized pricing and consumer choice models
+
 Week 8 – Markdown management and behavioral issues in pricing
+
 Week 9 – Introduction to inventory management
+
 Week 10 – Stochastic inventory management
+
 Week 11 – Miscellaneous topics in inventory management
+
 Week 12 – Final review
 
 ### Prerequisites
