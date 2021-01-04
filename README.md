@@ -20,7 +20,9 @@ The curriculum is designed to provide learners with a series of courses that emp
 
 ## BAMM.103x: Demand and Supply Analytics
 
-Learn how to use data to develop insights and predictive capabilities to make better business decisions
+**[`https://www.edx.org/course/demand-and-supply-analytics`](https://www.edx.org/course/demand-and-supply-analytics "Course Description")**
+
+Learn how to use data to develop insights and predictive capabilities to make better business decisions.
 
 ### About this course
 
@@ -31,8 +33,11 @@ These are only a small sample of the operational and pricing challenges all busi
 ### What you'll learn
 
   - To identify, evaluate, and capture business analytic opportunities that create business value
+  
   - Build models to support and help make managerial and business decisions
+  
   - Basic analytical methods and their applications
+  
   - Analyze case studies on organizations that successfully deployed analytical techniques
 
 ### Syllabus
