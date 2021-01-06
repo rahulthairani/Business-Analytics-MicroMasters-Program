@@ -175,3 +175,75 @@ These are only a small sample of the operational and pricing challenges all busi
 Undergraduate probability, statistics, linear algebra and calculus. Students should have familiarity with basic programming concepts in some procedural programming language.
 
 8 - 10 hours per week for 12 weeks
+
+## BAMM.104x: Marketing Analytics
+
+**[BAMM.104x: Marketing Analytics](https://www.edx.org/course/marketing-analytics "Course Description")**
+
+Develop quantitative models that leverage business data to forecast sales and support important marketing decisions.
+
+### About this course
+
+Marketers want to understand and forecast how customers purchase products and services and how they respond to marketing initiatives.
+
+Learn how analytics help businesses drive marketing to maximize its effectiveness and optimize return on investment (ROI).
+
+In this course, part of the Business Analytics MicroMasters program, discover how to develop quantitative models that leverage business data, statistical computation, and machine learning to forecast sales and marketing impact for:
+
+  - customer relationship management
+  
+  - market segmentation
+  
+  - value creation
+  
+  - communication
+  
+  - monetization
+  
+You will learn how to use probabilistic models and optimization tools to model customer demand forecasts, pricing sensitivity, Lifetime Value and how to leverage such data to make optimal decisions on designing new products, marketing segmentation and strategy.
+
+### What you'll learn
+
+  - Demand forecasting using customer-base models and statistical approaches
+  
+  - Market segmentation methods and best practices for identifying potential customer segments and focused targeting
+  
+  - Computation of Customer Lifetime Value for analyzing customer, brand loyalty and forecasting revenue in the short and long run
+  
+  - Factors to consider while designing and introducing new products to the market
+  
+  - Calculating Optimal Pricing for products and services to get the best ROI
+  
+  - Assessing Marketing ROI for making better and data-driven decisions
+  
+### Syllabus
+
+  - Week 1: Introduction to Marketing Analytics and Customer Analysis
+  
+  - Week 2: Market Segmentation
+  
+  - Week 3: Preference measurement
+  
+  - Week 4: Consumer Choice Models
+  
+  - Week 5: Customer Lifetime Value
+  
+  - Week 6: New Product Decisions
+  
+  - Week 7: New Product Decisions
+  
+  - Week 8: New Product Decisions
+  
+  - Week 9: Pricing Analytics and Optimization
+  
+  - Week 10: Pricing Analytics and Optimization
+  
+  - Week 11: Advertising
+  
+  - Week 12: Sales Promotions and Course Review
+  
+### Prerequisites
+
+Undergraduate probability, statistics and calculus. Familiarity with R or a similar programming language.
+
+8 - 10 hours per week for 12 weeks.
