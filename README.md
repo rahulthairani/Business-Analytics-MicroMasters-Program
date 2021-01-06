@@ -36,7 +36,7 @@ This is an intensive hands-on course that will equip and reward learners with pr
 
 ### What you'll learn
 
-  - Become familiar with working with relational databases, using SQL based languages such as MySql, dealing with formatted data (XML, JSON, etc.)
+  - Become familiar with working with relational databases, using SQL based languages such as MySQL, dealing with formatted data (XML, JSON, etc.)
   
   - Use Python to work with and analyze data from databases as well as from the web
 
