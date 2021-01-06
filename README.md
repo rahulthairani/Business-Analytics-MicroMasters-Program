@@ -20,7 +20,7 @@ The curriculum is designed to provide learners with a series of courses that emp
 
 ## BAMM.103x: Demand and Supply Analytics
 
-**[`https://www.edx.org/course/demand-and-supply-analytics`](https://www.edx.org/course/demand-and-supply-analytics "Course Description")**
+**[BAMM.103x: Demand and Supply Analytics](https://www.edx.org/course/demand-and-supply-analytics "Course Description")**
 
 Learn how to use data to develop insights and predictive capabilities to make better business decisions.
 
