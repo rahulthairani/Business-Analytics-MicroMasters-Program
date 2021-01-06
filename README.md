@@ -72,6 +72,8 @@ We will review basic Python programming concepts in week 1 and 2 and no prior pr
 
 No specific math capability is required though it will be helpful if you are familiar with the basic concepts of algebra, set theory, and probability.
 
+8 - 10 hours per week for 12 weeks
+
 ## BAMM.103x: Demand and Supply Analytics
 
 **[BAMM.103x: Demand and Supply Analytics](https://www.edx.org/course/demand-and-supply-analytics "Course Description")**
