@@ -200,7 +200,7 @@ In this course, part of the Business Analytics MicroMasters program, discover ho
   
   - monetization
   
-You will learn how to use probabilistic models and optimization tools to model customer demand forecasts, pricing sensitivity, Lifetime Value and how to leverage such data to make optimal decisions on designing new products, marketing segmentation and strategy.
+You will learn how to use probabilistic models and optimization tools to model customer demand forecasts, pricing sensitivity, lifetime value and how to leverage such data to make optimal decisions on designing new products, marketing segmentation and strategy.
 
 ### What you'll learn
 
