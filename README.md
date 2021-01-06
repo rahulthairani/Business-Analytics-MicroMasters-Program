@@ -74,6 +74,54 @@ No specific math capability is required though it will be helpful if you are fam
 
 8 - 10 hours per week for 12 weeks
 
+## BAMM.102x: Data, Models and Decisions in Business Analytics
+
+**[BAMM.102x: Data, Models and Decisions in Business Analytics](https://www.edx.org/course/data-models-and-decisions-in-business-analytics "Course Description")**
+
+Learn fundamental tools and techniques for using data towards making business decisions in the face of uncertainty.
+
+### About this course
+
+In today’s world, managerial decisions are increasingly based on data-driven models and analysis using statistical and optimization methods that have dramatically changed the way businesses operate in most domains including service operations, marketing, transportation, and finance.
+
+The main objectives of this course are the following:
+
+  - Introduce fundamental techniques towards a principled approach for data-driven decision-making
+  
+  - Quantitative modeling of dynamic nature of decision problems using historical data
+  
+  - Learn various approaches for decision-making in the face of uncertainty
+  
+Topics covered include probability, statistics, regression, stochastic modeling, and linear, nonlinear and discrete optimization.
+
+Most of the topics will be presented in the context of practical business applications to illustrate its usefulness in practice.
+
+### What you'll learn
+
+  - Fundamental concepts from probability, statistics, stochastic modeling, and optimization to develop systematic frameworks for decision-making in a dynamic setting
+  
+  - How to use historical data to learn underlying models and patterns
+  
+  - Optimization methods and software such as Gurobi to solve decision problems under uncertainty in business applications
+  
+### Syllabus
+
+  - Introduction to Probability: Random variables; Normal, Binomial, Exponential distributions; applications
+  
+  - Estimation: sampling; confidence intervals; hypothesis testing
+  
+  - Regression: linear regression; dummy variables; applications
+  
+  - Linear Optimization; Non-linear optimization; Discrete Optimization; applications  
+  
+  - Dynamic Optimization; decision trees
+
+### Prerequisites
+
+Undergraduate probability, statistics and linear algebra. Students should have working knowledge of Python and familiarity with basic programming concepts in some procedural programming language.
+
+8 - 10 hours per week for 12 weeks
+
 ## BAMM.103x: Demand and Supply Analytics
 
 **[BAMM.103x: Demand and Supply Analytics](https://www.edx.org/course/demand-and-supply-analytics "Course Description")**
