@@ -1,4 +1,4 @@
-# MicroMasters Program in Business Analytics - ColumbiaX
+# MicroMasters Program in Business Analytics
 
 **[MicroMasters Program in Business Analytics - ColumbiaX](https://www.edx.org/micromasters/columbiax-business-analytics "Program Description")**
 
